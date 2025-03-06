@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Epic Games/Unreal Projects/DDR-MIX/DDR_on_MIX/Content/StarterContent/Maps/DDR_Map.umap",
+				"D:/Epic Games/Unreal Projects/DDR-MIX/DDR_on_MIX/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset",
 				"C:/Users/jesus/OneDrive/Documents/GitHub/DDR-MIX/DDR_on_MIX/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
